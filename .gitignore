@@ -1,0 +1,20 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated index (rebuild with: python ingest.py)
+chroma_db/
+
+# GDPR text is downloaded by the user, not stored in the repo
+docs/*.txt
+docs/*.pdf
+
+# Evaluation outputs
+evaluation/results/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
