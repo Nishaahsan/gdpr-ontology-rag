@@ -4,7 +4,8 @@ Ask questions about the EU General Data Protection Regulation (GDPR) and get ans
 
 > ⚠️ Educational project. This is **not legal advice**.
 
-![Screenshot](assets/screenshot.png)
+<img width="1593" height="773" alt="image" src="https://github.com/user-attachments/assets/fa1a2f33-f1c5-4ba2-8c7d-44bd5dd563d8" />
+
 
 ## Features
 
@@ -68,7 +69,7 @@ Python · [Ollama](https://ollama.com) (`llama3.2:3b`, `nomic-embed-text`) · [C
 
 ```bash
 # 1. Get the code
-git clone https://github.com/<your-username>/gdpr-offline-rag.git
+git clone https://github.com/Nishaahsan/gdpr-offline-rag.git
 cd gdpr-offline-rag
 
 # 2. Download the local models (once, needs internet)
